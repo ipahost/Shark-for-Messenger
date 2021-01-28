@@ -10,7 +10,7 @@ A powerful tweak for Messenger!
    
     | Application | Version | Shark |
     | --- | --- | --- |
-    | [Messenger](https://mega.nz/file/MIZ1mCyY#qX9t84GN_giEHDvncBFF3FCvy53Eg4XNGI-a2-qpsrs) | 294.0 | 1.4 |
+    | [Messenger](https://mega.nz/file/ZYQBmIwS#O19-jP5uI-0K3P8DQXFNNaVtP1Xxy2YwWfMDJZUPYIU) | 297.0 | 1.9 |
         
 &nbsp;
 
